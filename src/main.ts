@@ -24,3 +24,5 @@ for (let i = 0; i < myName.length; i++) {
 
 }
 
+    const name = "Amanda"
+    console.log(name.length);
