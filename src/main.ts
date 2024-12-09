@@ -1,8 +1,8 @@
-import '.src/style.css'
+import './style.css'
 
     const name = "Amanda"
     console.log(name.length);
-    const firstName = document.createElement("p");
-    firstName.innerHTML="madiha";
-    const div = document.getElementById("app");
-    div?.appendChild(firstName);
+
+    for (let i = 0; i < name.length; i++){
+          console.log(name[i]);
+        }
