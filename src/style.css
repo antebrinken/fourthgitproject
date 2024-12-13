@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 * {
@@ -31,3 +32,16 @@ margin-right: 10px;
 font-size: 20px;
 
 } 
+=======
+body {
+  padding: 0;
+  margin: 0;
+}
+.footer{
+  color: white;
+  background-color: black;
+  display:flex;
+  justify-content: center;
+  text-align: center;
+}
+>>>>>>> f374e5578cc30c95f7a8c07543e7301e6bc279bf
