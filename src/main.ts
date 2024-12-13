@@ -1,4 +1,6 @@
 import './style.css'
+<<<<<<< HEAD
+=======
 
 window.onload = function() {
 
@@ -30,3 +32,4 @@ for (let i = 0; i < myName.length; i++) {
     for (let i = 0; i < name.length; i++){
           console.log(name[i]);
         }
+>>>>>>> efb6087c3c1010e7e857093463075b2ee2442b9a
